@@ -23,7 +23,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - ⛓️ **Smart Contract** : [View Code](https://github.com/yebology/roomie-smartcontract.git)
 - 🛠️ **Backend** : [View Code](https://github.com/LouisFernando1204/roomie-backend.git)
 - 📊 **Pitch Deck** : [View File (Coming Soon)]()
-- 📝 **Set Up Guide** : [View Guide (Coming soon)]()
+- 📝 **Set Up Guide** : [View Guide](https://github.com/yebology/roomie-setup-guide.git)
 - 🎥 **Demo Video** : [Watch Video (Coming Soon)]()
 
 ## ⚙️ Tech Stack Behind Roomie
