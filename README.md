@@ -21,7 +21,6 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 ## 🚀 Roomie Insights
 - 💻 **dApp (Frontend)** : [View Code](https://github.com/LouisFernando1204/roomie-dapp.git)
 - ⛓️ **Smart Contract** : [View Code](https://github.com/yebology/roomie-smartcontract.git)
-- 🤖 **AI** : [View Code (Coming Soon)]()
 - 🛠️ **Backend** : [View Code](https://github.com/LouisFernando1204/roomie-backend.git)
 - 📊 **Pitch Deck** : [View File (Coming Soon)]()
 - 📝 **Set Up Guide** : [View Guide (Coming soon)]()
@@ -31,7 +30,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 💻 **Frontend** : React (TypeScript)  
 - ⛓️ **Smart Contract** : Foundry (Solidity)  
 - 🪙 **Token Standard** : ERC-1155  
-- 🤖 **AI** : FastAPI (Python) & OpenAI
+- 🤖 **AI** : OpenAI
 - 🛠️ **Backend** : Node.js
 - 🔗 **Library** : Ethers.js  
 - 💼 **Wallet Integration** : Reown  
