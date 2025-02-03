@@ -29,11 +29,11 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 ## ⚙️ Tech Stack Behind Roomie
 - 💻 **Frontend** : React (TypeScript)  
 - ⛓️ **Smart Contract** : Foundry (Solidity)  
-- 🪙 **Token Standard** : ERC-1155  
+- 🪙 **Token Standard** : ERC-1155
+- 💼 **Wallet Integration** : Reown 
 - 🤖 **AI** : OpenAI
 - 🛠️ **Backend** : Node.js
 - 🔗 **Library** : Ethers.js  
-- 💼 **Wallet Integration** : Reown  
 - 🧩 **Component Library** : Aceternity UI  
 - 🌍 **IPFS Provider** : Pinata  
 - 🎨 **Styling** : TailwindCSS  
