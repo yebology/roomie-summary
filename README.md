@@ -15,8 +15,8 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 💵 Withdraw Earnings : Easily withdraw ETH earned from user bookings directly to your wallet. 💰
 
 ## 🌐 Shared Feature
-- ⚖️ Open a Case: Got an issue with an order? You can open a case within 7 days to sort it out! ⏳
-- 🗳️ Vote on a Case: Anyone can join in and help resolve a case by voting! 🤝
+- ⚖️ Open a Case : Got an issue with an order? You can open a case within 7 days to sort it out! ⏳
+- 🗳️ Vote on a Case : Anyone can join in and help resolve a case by voting! 🤝
 
 ## 🚀 Roomie Insights
 - 💻 **dApp (Frontend)** : [View Code](https://github.com/LouisFernando1204/roomie-dapp.git)
