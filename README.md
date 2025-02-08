@@ -41,6 +41,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 
 ## 🖼️ Assets Reference
 - 📢 -INPUT OUR ASSET LINK, DRIVE LINK?-
+- 📢 [Content Not Found]("https://www.flaticon.com/free-sticker/not-found_13725483?term=not+found&page=1&position=1&origin=search&related_id=13725483")
 
 ## 🤝 Contributors
 - 🤓 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
