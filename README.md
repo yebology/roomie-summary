@@ -5,18 +5,19 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 
 ## 🧑‍💻 User's Feature
 - 🏠 **Book Accommodations** : Browse and reserve accommodations seamlessly through the platform. 🌟
+- 🤖 **AI Chatbot Assistance** : Get instant answers to accommodation queries, pricing, and recommendations using our AI-powered chatbot. 🧠💬
+- ⚖️ **Open a Case** : Got an issue with an order? You can open a case within 7 days to sort it out! ⏳
 - 🗓 **Check-In & Check-Out** : Manage your stays effortlessly with intuitive check-in and check-out processes. 📎️
 - ⭐ **Leave Ratings** : Share your feedback and help hosts build their reputation. 📝
-- 🤖 **AI Chatbot Assistance** : Get instant answers to accommodation queries, pricing, and recommendations using our AI-powered chatbot. 🧠💬
 
 ## 🏠 Host's Feature
 - 🏡 **Register Accommodation** : List your property on the platform to start earning from bookings. 🏢
 - 🪙 **Register Tokens** : Create tokens for each room type (one token per room type) to represent and manage bookings securely on the blockchain. 🌟
 - 🎟️ **Mint Tokens** : Add token supply for each room type by depositing the host's ETH into the smart contract, ensuring safety and transparency. 🔒
 - 💵 **Withdraw Earnings** : Easily withdraw ETH earned from user bookings directly to your wallet. 💰
+- 📝 **Respond to User Cases** : Dispute a user’s claim if you believe it’s unfair by submitting arguments and evidence to defend your accommodation. 🛡️
 
 ## 🌐 Shared Feature
-- ⚖️ **Open a Case** : Got an issue with an order? You can open a case within 7 days to sort it out! ⏳
 - 🗳️ **Vote on a Case** : Anyone can join in and help resolve a case by voting! 🤝
 
 ## 🚀 Roomie Insights
@@ -41,7 +42,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 
 ## 🖼️ Assets Reference
 - 📢 -INPUT OUR ASSET LINK, DRIVE LINK?-
-- 📢 [Content Not Found](https://www.flaticon.com/free-sticker/not-found_13725483?term=not+found&page=1&position=1&origin=search&related_id=13725483)
+- 📢 [Content Not Found Sticker](https://www.flaticon.com/free-sticker/not-found_13725483?term=not+found&page=1&position=1&origin=search&related_id=13725483)
 
 ## 🤝 Contributors
 - 🤓 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
