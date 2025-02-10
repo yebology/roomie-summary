@@ -18,7 +18,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 📝 **Respond to User Cases** : Dispute a user’s claim if you believe it’s unfair by submitting arguments and evidence to defend your accommodation. 🛡️
 
 ## 🌐 Shared Feature
-- 🗳️ **Vote on a Case** : Anyone can join in and help resolve a case by voting! 🤝
+- 🗳️ **Vote on a Case** : Anyone can join in and help resolve a case by decentralized voting! 🤝
 
 ## 🚀 Roomie Insights
 - 💻 **dApp (Frontend)** : [View Code](https://github.com/LouisFernando1204/roomie-dapp.git)
