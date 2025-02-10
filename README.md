@@ -42,6 +42,17 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 ## 🖼️ Assets Reference
 - 📢 -INPUT OUR ASSET LINK, DRIVE LINK?-
 - 📢 [Content Not Found Sticker](https://www.flaticon.com/free-sticker/not-found_13725483?term=not+found&page=1&position=1&origin=search&related_id=13725483)
+- [Image Asset 1 - Demo Video Purposes](https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_TPTXZd9mOo)
+- [Image Asset 2 - Demo Video Purposes](https://unsplash.com/photos/white-building-photographt-MXbM1NrRqtI)
+- [Image Asset 3 - Demo Video Purposes](https://unsplash.com/photos/text-MRjjcDIk3Gw)
+- [Image Asset 4 - Demo Video Purposes](https://unsplash.com/photos/a-blue-bird-statue-on-top-of-a-building-Vby313ge5PE)
+- [Image Asset 5 - Demo Video Purposes](https://unsplash.com/photos/brown-wooden-framed-yellow-padded-chair-_HqHX3LBN18)
+- [Image Asset 6 - Demo Video Purposes](https://unsplash.com/photos/white-wooden-coffee-table-near-white-sofa-WgkA3CSFrjc)
+- [Image Asset 7 - Demo Video Purposes](https://unsplash.com/photos/silver-imac-turned-off-on-white-wooden-desk-oTJ92KUXHls)
+- [Image Asset 8 - Demo Video Purposes](https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI)
+- [Image Asset 9 - Demo Video Purposes](https://unsplash.com/photos/two-green-and-white-pillows-on-empty-bed-w1RE0lBbREo)
+- [Image Asset 10 - Demo Video Purposes](https://unsplash.com/photos/quilted-white-comforter-R-w5Q-4Mqm0)
+
 
 ## 🤝 Contributors
 - 🤓 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
@@ -49,4 +60,3 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 🤓 Louis Fernando : [@LouisFernando1204](https://github.com/LouisFernando1204)
 - 🤓 Lie, Samuel Miracle Kristanto : [@Attraqtia](https://github.com/Attraqtia)
 - 🤓 Yobel Nathaniel Filipus : [@yebology](https://github.com/yebology)
-  
