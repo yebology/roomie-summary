@@ -40,19 +40,23 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 🎨 **Styling** : TailwindCSS  
 
 ## 🖼️ Assets Reference
-- 📢 -INPUT OUR ASSET LINK, DRIVE LINK?-
+- 📢 [Generated Image on Hero Section](https://perchance.org/ai-photo-generator)
 - 📢 [Content Not Found Sticker](https://www.flaticon.com/free-sticker/not-found_13725483?term=not+found&page=1&position=1&origin=search&related_id=13725483)
-- [Image Asset 1 - Demo Video Purposes](https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_TPTXZd9mOo)
-- [Image Asset 2 - Demo Video Purposes](https://unsplash.com/photos/white-building-photographt-MXbM1NrRqtI)
-- [Image Asset 3 - Demo Video Purposes](https://unsplash.com/photos/text-MRjjcDIk3Gw)
-- [Image Asset 4 - Demo Video Purposes](https://unsplash.com/photos/a-blue-bird-statue-on-top-of-a-building-Vby313ge5PE)
-- [Image Asset 5 - Demo Video Purposes](https://unsplash.com/photos/brown-wooden-framed-yellow-padded-chair-_HqHX3LBN18)
-- [Image Asset 6 - Demo Video Purposes](https://unsplash.com/photos/white-wooden-coffee-table-near-white-sofa-WgkA3CSFrjc)
-- [Image Asset 7 - Demo Video Purposes](https://unsplash.com/photos/silver-imac-turned-off-on-white-wooden-desk-oTJ92KUXHls)
-- [Image Asset 8 - Demo Video Purposes](https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI)
-- [Image Asset 9 - Demo Video Purposes](https://unsplash.com/photos/two-green-and-white-pillows-on-empty-bed-w1RE0lBbREo)
-- [Image Asset 10 - Demo Video Purposes](https://unsplash.com/photos/quilted-white-comforter-R-w5Q-4Mqm0)
-
+- 📢 [Accommodation Template Cover](https://images.unsplash.com/photo-1449844908441-8829872d2607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxob21lfGVufDB8MHx8fDE3MTA0MDE1NDZ8MA&ixlib=rb-4.0.3&q=80&w=1080)
+- 📢 [Villa 1 - Demo Video Purposes](https://unsplash.com/photos/white-and-brown-concrete-building-under-blue-sky-during-daytime-_TPTXZd9mOo)
+- 📢 [Villa 2 - Demo Video Purposes](https://unsplash.com/photos/white-building-photographt-MXbM1NrRqtI)
+- 📢 [Villa Logo 1 - Demo Video Purposes](https://unsplash.com/photos/text-MRjjcDIk3Gw)
+- 📢 [Villa Logo 2 - Demo Video Purposes](https://unsplash.com/photos/a-blue-bird-statue-on-top-of-a-building-Vby313ge5PE)
+- 📢 [Room 1 - Demo Video Purposes](https://unsplash.com/photos/brown-wooden-framed-yellow-padded-chair-_HqHX3LBN18)
+- 📢 [Room 2 - Demo Video Purposes](https://unsplash.com/photos/white-wooden-coffee-table-near-white-sofa-WgkA3CSFrjc)
+- 📢 [Room 3 - Demo Video Purposes](https://unsplash.com/photos/silver-imac-turned-off-on-white-wooden-desk-oTJ92KUXHls)
+- 📢 [Room 4 - Demo Video Purposes](https://unsplash.com/photos/tidy-room-filled-with-furnitures-gREquCUXQLI)
+- 📢 [Room 5 - Demo Video Purposes](https://unsplash.com/photos/two-green-and-white-pillows-on-empty-bed-w1RE0lBbREo)
+- 📢 [Room 6 - Demo Video Purposes](https://unsplash.com/photos/quilted-white-comforter-R-w5Q-4Mqm0)
+- 📢 [Case 1 Accommodation's Response](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYFPI2JH6CDZjnG9Hx0njhOV8tMDLlhJ-5w&s)
+- 📢 [Case 2 Accommodation's Response](https://imgs.search.brave.com/bA2UKcfox3exvA6CG1TXGjJBUAg8cKraMF6smcDRl7k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dC5rb21wYXMuY29t/L2Nyb3BzL2JBNWdR/UTNSZ2Zhc0ZSTmpq/aVBobUpJaVF6Yz0v/MHgwOjEwMDB4NjY3/LzQ5MHgzMjYvZGF0/YS9waG90by8yMDIy/LzA0LzE5LzYyNWU2/ZWE3YWFiNWEuanBn)
+- 📢 [Case 1 From Customer](https://imgs.search.brave.com/T0Ka9WOLHPv5itYBeXU1j_z3yAZetip47keuMNn0Ork/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9oaW1h/bGF5YWFiYWRpLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/Mi8wMS9LYWNhLVJ1/bWFoLVBlY2FoLS5q/cGc)
+- 📢 [Case 2 From Customer](https://imgs.search.brave.com/g97BDIdj1TqQH3n0QT638Csdll191uSqj39lmE-lodE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxMy8w/Mi8yMC8wNy8yMS9j/aWdhcmV0dGVzLTgz/NTcxX18zNDAuanBn)
 
 ## 🤝 Contributors
 - 🤓 Joren Alexander Toding : [@jhwrwe](https://github.com/jhwrwe)
