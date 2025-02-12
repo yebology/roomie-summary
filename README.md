@@ -21,6 +21,7 @@ Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the
 - 🗳️ **Vote on a Case** : Anyone can join in and help resolve a case by decentralized voting! 🤝
 
 ## 🚀 Roomie Insights
+- 🌐 **Website** : [View Website](https://roomie-dapp.vercel.app)
 - 💻 **dApp (Frontend)** : [View Code](https://github.com/LouisFernando1204/roomie-dapp.git)
 - ⛓️ **Smart Contract** : [View Code](https://github.com/yebology/roomie-smartcontract.git)
 - 🪙 **Contract Address** : [View on Explorer](https://pacific-explorer.sepolia-testnet.manta.network/address/0xB85C25cA53ca0f8fd426ba4Ce11249f8fbD4F22e)
