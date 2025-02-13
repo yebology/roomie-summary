@@ -1,7 +1,7 @@
 # Roomie : When Hospitality Come Together with AI and Web3. 🚀
 
 ## ✨ Overview
-Welcome to Roomie, a Web3 AI-powered accommodation booking platform built on the Manta Pacific ecosystem. 🏡✨ Leveraging the ERC-1155 standard and an escrow-based deposit system, Roomie ensures secure, transparent, and decentralized transactions for both users and hosts. 🌐🔒 By prioritizing trust and safety, Roomie minimizes fraud risks and fosters a seamless, reliable booking experience. 🚀🌍 Discover the future of accommodation bookings with Roomie—where innovation meets peace of mind!
+Welcome to Roomie, the Web3 AI-powered booking platform built on Manta Pacific! 🏡✨ Using ERC-1155 NFTs as proof of stay and an escrow deposit system, Roomie ensures scam-free, transparent, and decentralized transactions. 🌐🔒 Get AI-driven room recommendations and resolve disputes fairly through blockchain-based decentralized voting—for a secure, trustless accommodation experience. 🚀🏡
 
 ## 🧑‍💻 User's Feature
 - 🏠 **Book Accommodations** : Browse and reserve accommodations seamlessly through the platform. 🌟
