@@ -33,7 +33,7 @@ Welcome to Roomie, the Web3 AI-powered booking platform built on Manta Pacific! 
 - 💻 **Frontend** : React (TypeScript)  
 - ⛓️ **Smart Contract** : Foundry (Solidity)  
 - 🪙 **Token Standard** : ERC-1155
-- 💼 **Wallet Integration** : Reown
+- 💼 **Wallet Provider** : Reown
 - 🤖 **AI** : OpenAI (AI-powered chatbot for user assistance)
 - 🛠️ **Backend** : Node.js
 - 🔗 **Library** : Ethers.js  
